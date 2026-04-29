@@ -4,7 +4,7 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8358960525:AAFn7ymZSGm4n9OBspk3h2sBXXgnh9aXhqs")
 
 memes = [
     "https://i.imgur.com/W3WbK.jpg",
